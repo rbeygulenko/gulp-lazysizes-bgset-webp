@@ -1,0 +1,19 @@
+{
+  "name": "gulp-lazybgset-webp",
+  "version": "1.0.0",
+  "description": "lazysizes data-bg webp converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rbeygulenko/gulp-lazysizes-bgset-webp.git"
+  },
+  "author": "Ruslan B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbeygulenko/gulp-lazysizes-bgset-webp/issues"
+  },
+  "homepage": "https://github.com/rbeygulenko/gulp-lazysizes-bgset-webp#readme"
+}
